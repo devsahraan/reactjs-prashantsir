@@ -1,0 +1,1 @@
+Learning how to use props to transfer data from parent to child and nested child components, understanding React Fragments, and applying modular CSS for each component. Also practicing conditional rendering using if-else, ternary operators, and logical expressions, along with using the map method to render dynamic lists and passing children as props.

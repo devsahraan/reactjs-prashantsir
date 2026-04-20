@@ -1,0 +1,1 @@
+first react app in which we understand folder structure 
